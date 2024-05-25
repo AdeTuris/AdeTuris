@@ -22,5 +22,5 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-" />
 </div><br/>
-     A tecnologia educa e muda a vida das pessoas atrvés da programação.
+     A tecnologia educa e muda a vida das pessoas através da programação.
 
